@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Registration Form App</string>
+    <string name="register_title">Register</string>
+    <string name="first_name">First Name</string>
+    <string name="last_name">Last Name</string>
+    <string name="email">Email</string>
+    <string name="phone_number">Phone Number</string>
+    <string name="password">Password</string>
+    <string name="create_account">Create Account</string>
+</resources>
